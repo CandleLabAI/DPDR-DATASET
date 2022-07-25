@@ -1,32 +1,9 @@
 # DPDR Dataset
 # A Dataset of Retinal Fundus images of Healthy and Proliferative Diabetic Retinopathy Patients
 
-## Request Dataset
-Please send an e-mail to [CandleLab](mailto:candlelabiitr@gmail.com) to receive a link to the DPDR Dataset of Retinal Fundus images of Healthy and Proliferative Diabetic Retinopathy Patients. Your e-mail must be sent from a valid institutional/organization account, and include the following text (copy and paste the text below, filling in the required fields):
+## Request Description:
+This dataset is concerned with the final stage .i.e. Proliferative Diabetic Retinopathy. This stage is characterised by the growth of new blood vessels on the surface of the retina which may leak and cause retinal edema (a condition in which there is a buildup of fluid in the centre of the retina that causes a distorted vision). This can lead to loss of the vision.
 
-```
-Subject: Request to download the DBM dataset.
+## Dataset description: 
 
-- Name: [your first and last name]
-- Affiliation: [university/organization where you work]
-- Department: [your department]
-- Current position: [your current role/job title]
-- E-mail: [must belong to a valid institutional/organization account]
-
-I have read and agreed to follow the terms and conditions below:
-The use of the DPDR dataset is defined by the following conditions:
-
-- This dataset is provided “AS IS”, without any express or implied warranty. Although every effort has been made to ensure accuracy, the CKMVIGIL does not take any responsibility for errors or omissions;
-
-- Without the expressed permission of the CKMVIGIL, any of the following will be considered illegal: redistribution, modification, and commercial usage of this dataset in any way or form, either partially or in its entirety;
-
-- All images in this dataset are only allowed for demonstration in academic publications and presentations;
-
-This dataset will only be used for research purposes. I will not make any part of this dataset available to a third party. I’ll not sell any part of this dataset or make any profit from its use.
-
-[your signature]
-```
-
-> **PS: A link to the dataset file will be sent as soon as possible.**
-
-<br><br>
+The dataset is divided into two subsets. First set consists of 250 retinal fundus images of healthy individuals and second set consists of 250 fundus images of patients with Proliferative Diabetic Retinopathy (PDR).
