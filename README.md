@@ -10,9 +10,9 @@ The dataset is divided into two subsets. First set consists of 250 retinal fundu
 
 ## If you are using this dataset, please cite our report:
 
-@techreport { ref172,
-        title            = "DPDR: A Dataset of Retinal Fundus images of Healthy and Proliferative Diabetic Retinopathy Patients",
-        year             = "2022",
-        author           = "M Krishna Chaitanya and Sparsh Mittal and R Sai Chandra Teja",
-        institution      = "IIT Roorkee",
-        number           = "2022-IITR-103"}
+# @techreport { ref172,
+#       title            = "DPDR: A Dataset of Retinal Fundus images of Healthy and Proliferative Diabetic Retinopathy Patients",
+#       year             = "2022",
+#       author           = "M Krishna Chaitanya and Sparsh Mittal and R Sai Chandra Teja",
+#       institution      = "IIT Roorkee",
+#       number           = "2022-IITR-103"}
